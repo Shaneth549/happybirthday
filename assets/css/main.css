@@ -3504,6 +3504,7 @@ input, select, textarea {
 		flex-shrink: 1;
 		height: 100%;
 		padding: 5rem;
+		background-color: white;
 	}
 
 		@media screen and (orientation: portrait) {
